@@ -54,7 +54,7 @@ sudo apt update && sudo apt install -y aircrack-ng iw wireless-tools
 ### Python Dependencies
 
 ```bash
-pip install scapy
+sudo apt install python3-scapy
 ```
 
 ---
@@ -62,16 +62,10 @@ pip install scapy
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/jamx.git
+git clone https://github.com/bxbySAMRAT/jamx.git
 cd jamx
-pip install -r requirements.txt
-```
 
-**requirements.txt**
 ```
-scapy>=2.5.0
-```
-
 ---
 
 ## 🚀 Usage
