@@ -217,8 +217,8 @@ git clone https://github.com/bxbySAMRAT/JamX.git
 # Enter the directory
 cd JamX
 
-# Install dependencies (if not using apt)
-pip install scapy
+# Install dependencies 
+sudo apt update && sudo apt install python3-scapy
 ```
 
 That's it. No config files, no setup scripts, no virtual environments needed.
