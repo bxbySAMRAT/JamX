@@ -17,7 +17,7 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
   ⚡ Multi-Target WiFi Deauth Tool ⚡
-    Built by : bxbySAMRAT
+    Built by : babySAMRAT
   [ Auto Monitor Mode | Scapy-Powered ]
        FOR AUTHORIZED USE ONLY 🔴
 ```
@@ -212,7 +212,7 @@ sudo apt update && sudo apt install -y aircrack-ng iw wireless-tools python3-sca
 
 ```bash
 # Clone the repository
-git clone https://github.com/bxbySAMRAT/JamX.git
+git clone https://github.com/babySAMRAT/JamX.git
 
 # Enter the directory
 cd JamX
@@ -313,7 +313,7 @@ sudo python3 jamx.py -i wlan0 -s 45 --5ghz -t 0.01 -T 20
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
   ⚡ Multi-Target WiFi Deauth Tool ⚡
-  Built by — bxbySAMRAT
+  Built by — babySAMRAT
   [ Auto Monitor Mode | Scapy-Powered ]
      FOR AUTHORIZED USE ONLY 🔴
 
@@ -458,6 +458,6 @@ This tool is provided for **authorized security testing** and **educational purp
 ---
 
 <p align="center">
-  <b>Built with ❤️ by <a href="https://github.com/bxbySAMRAT">bxbySAMRAT</a></b><br>
+  <b>Built with ❤️ by <a href="https://github.com/babySAMRAT">babySAMRAT</a></b><br>
   <i>Star ⭐ this repo if you found it useful!</i>
 </p>
