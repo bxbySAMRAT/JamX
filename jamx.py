@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 JamX v2 — Multi-Target WiFi Deauthentication Tool
-Built by bxbySAMRAT | FOR AUTHORIZED USE ONLY
+Built by babySAMRAT | FOR AUTHORIZED USE ONLY
 """
 
 # ── ANSI Colors ───────────────────────────────
@@ -22,7 +22,7 @@ BANNER = f"""{RED}{BOLD}
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝{RESET}
 
 {YELLOW}  ⚡ Multi-Target WiFi Deauth Tool ⚡
-  Built by — bxbySAMRAT
+  Built by — babySAMRAT
   [ Auto Monitor Mode | Scapy-Powered ]
      {RED}FOR AUTHORIZED USE ONLY 🔴{RESET}
 """
